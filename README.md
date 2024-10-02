@@ -1,8 +1,14 @@
 # IPYNB to HTML Converter
 
-Site: cooperw18.pythonanywhere.com
-
 A simple web application that allows users to upload Jupyter Notebook (`.ipynb`) files and convert them to HTML format. The conversion is handled entirely server-side, making it easy to use without any installation or setup.
+
+## Live Website
+
+The Jupyter Notebook to HTML Converter is now live! You can use the application by visiting the link below:
+
+[**🚀 Launch Jupyter to HTML Converter**](https://cooperw18.pythonanywhere.com)
+
+This web application allows you to easily convert your Jupyter Notebook (.ipynb) files to HTML format. Simply upload your file and click convert - no sign up or payment required!
 
 ## Features
 
